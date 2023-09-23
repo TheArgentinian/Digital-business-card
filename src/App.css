@@ -1,0 +1,41 @@
+body {
+  max-width: 1280px;
+  margin: 0 auto;
+  font-family: "Inter", sans-serif;
+  background-color: #23252C;
+}
+
+.name {
+  color: #FFF;
+  text-align: center;
+  font-family: Inter;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.job-title {
+  color: #F3BF99;
+  text-align: center;
+  font-family: Inter;
+  font-size: 12.8px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+button {
+  display: flex;
+  width: 115px;
+  padding: 9px 13px 9px 11px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 6px;
+  border: 1px solid #D1D5DB;
+}
+
+.linkedin-btn {
+  background: #297FE5;
+}/*# sourceMappingURL=App.css.map */
